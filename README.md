@@ -1,3 +1,3 @@
-# Easy-Snake-Game-Python
-Easy snake game implemented using only Pyplot and NumPy.
+# Time-Warp-Scan-Python
+Time Warp Scan filter implemented using OpenCV and Python
 ![](Example.gif)
